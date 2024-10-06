@@ -1,4 +1,4 @@
-# Credit Card Approval Prediction
+# Credit Card Approval Prediction | Credit Risk Assessment
 ![dataset-cover](https://github.com/user-attachments/assets/90d9b6c9-6b04-453e-a117-67961d94df80)
 
 Our banking client has tasked us to assess their clients risk in order to automate the credit card application procedures.
