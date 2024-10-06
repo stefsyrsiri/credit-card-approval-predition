@@ -1,5 +1,5 @@
 # Credit Card Approval Prediction
-![demo](https://storage.googleapis.com/kaggle-datasets-images/426827/812605/719b66b4a3afd1da8c107b026c66fa91/dataset-cover.jpg?t=2019-11-28-02-30-42)
+![dataset-cover](https://github.com/user-attachments/assets/90d9b6c9-6b04-453e-a117-67961d94df80)
 
 Our banking client has tasked us to assess their clients risk in order to automate the credit card application procedures.
 
