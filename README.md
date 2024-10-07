@@ -25,6 +25,24 @@ Notably, the criteria for categorizing an applicant as 'approved' or 'declined' 
 ### Datasets
 The datasets and extensive documentation can be found <a href="https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction">here</a>.
 
+### Installation
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/stefsyrsiri/credit-card-approval-predition
+```
+
+2. Change to the project directory:
+```bash
+cd credit-card-approval-predition
+```
+
+3. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
 ### Contact Information
 If you have any questions, suggestions, or just want to connect, message me on <a href="https://www.linkedin.com/in/stefania-syrsiri/">LinkedIn</a> 😸
 
