@@ -14,6 +14,7 @@ Notably, the criteria for categorizing an applicant as 'approved' or 'declined' 
 ### Table of Contents
 - [Files](#files)
 - [Datasets](#datasets)
+- [Installation](#installation)
 - [Contact Information](#contact-information)
 - [License](#license)
 
